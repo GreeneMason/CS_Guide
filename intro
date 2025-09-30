@@ -9,7 +9,11 @@ This section will be about simply getting code to compile and run.
 
 # Definitons 
 __Literals;__ The content of any give data type, for example the true or false for boolean or the number 8 for an integer.
-__Operators;__ 
+__Operators;__ Actions for the data types, each data type has specific access to certain actions. For example int and double can use '+' operation but a boolean would not. 
+__Identifiers;__ Names of vairiable, classes, or anything you need to name but the for java the first letter cant be a number.
+__CONSTANT_VARIABLES;__ Variables that are always the same within their scope, always with all caps identifiers. 
+__Expression;__ A line of code that is able to produce an output using literals, variables, and operations.
+
 
 # Java's built in datatypes
  - int (integers)
