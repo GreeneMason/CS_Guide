@@ -6,4 +6,17 @@ This section will be about simply getting code to compile and run.
  - Correct formatting, .class extension has correct syntax
  - Dependencies, the appropriate compilers or interpreters are downloaded
  - No syntax or spelling errors
+
+# Definitons 
+__Literals;__ The content of any give data type, for example the true or false for boolean or the number 8 for an integer.
+__Operators;__ 
+
+# Java's built in datatypes
+ - int (integers)
+ - double (real numbers)
+ - boolean (true or false)
+ - String (sequence of characters)
+ - char (characters)
+ - 
+
  
