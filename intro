@@ -1,0 +1,9 @@
+## Introduction to Computer Science w/ Java
+This section will be about simply getting code to compile and run.
+
+# Excecutable code checklist
+ - The correct file extension (ei. .java or .py)
+ - Correct formatting, .class extension has correct syntax
+ - Dependencies, the appropriate compilers or interpreters are downloaded
+ - No syntax or spelling errors
+ 
