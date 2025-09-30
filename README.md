@@ -5,3 +5,4 @@ I am thinking of loosly following the same categories as the textbook chapters f
 
 ## Table of Contents
 - [Intro] https://github.com/GreeneMason/CS_Guide/blob/main/intro 
+- [Data Types] 
