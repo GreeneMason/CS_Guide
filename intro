@@ -29,3 +29,7 @@ __Expression;__ A line of code that is able to produce an output using literals,
  - > greater than
  - < less than
  - != not equals
+
+#  Libraries
+Example; Math.random()   Math is the library   random is a function within Math
+Syntax; Library.function(argument)
