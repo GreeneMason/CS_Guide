@@ -1,0 +1,12 @@
+## Conditionals and Loops
+
+Conditionals are statements that execute if their condition is met.
+Loops are repeated until thier condition is met.
+
+# if statements
+example; 
+'''
+if(x == 3){
+x++;
+}
+'''
