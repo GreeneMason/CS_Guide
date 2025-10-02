@@ -21,6 +21,11 @@ __Expression;__ A line of code that is able to produce an output using literals,
  - boolean (true or false)
  - String (sequence of characters)
  - char (characters)
- - 
 
- 
+# Comparisons
+ - == equals
+ - <= less than or equal 
+ - >= greater than or equal
+ - > greater than
+ - < less than
+ - != not equals
