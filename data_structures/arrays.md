@@ -1,8 +1,8 @@
-## Arrays
+# Arrays
 
 A data structure that uses indexing starting at 0. Each index(input) has an element(output). Very commonly used for large ammounts of data. 
 
-# For Java
+## For Java
 - Declare array
 
 'int[] g;'
