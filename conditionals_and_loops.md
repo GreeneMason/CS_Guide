@@ -1,9 +1,9 @@
-## Conditionals and Loops
+# Conditionals and Loops
 
 Conditionals are statements that execute if their condition is met.
 Loops are repeated until thier condition is met.
 
-# if statements
+## if statements
 example; 
 '''
 if(x == 3){
@@ -17,7 +17,7 @@ code
 }
 '''
 
-# While loops
+## While loops
 while(x < 3){
 x--;
 }
@@ -29,7 +29,7 @@ code
 }
 '''
 
-# For loops
+## For loops
 for(int i = 1; i < 3;i++){
 System.out.println(i);
 }
