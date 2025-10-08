@@ -30,9 +30,17 @@ This meaning that the program is refrencing an index of the array that does not 
 ## Two dimensional arrays
 A two dimensional array follows alot of the same syntax rules except for declaring the size, with two dimensions the syntax has two size inputs, row x column.
 data_type[row][column] variable_name = new data_type[size_row][size_column];\
-Exampple;\
+Example;\
 int[][] n = new int[5][2];
 
+### Ragged arrays
+An array can have a different length for each row in a two dimentional arrays. This could be used to repressent spreadsheets of data. 
+
+### Multidimentional Arrays
+A two dimensional array follows alot of the same syntax rules except for declaring the size, with two dimensions the syntax has two size inputs, row x column.
+data_type[row][column][depth] variable_name = new data_type[size_row][size_column][size_depth];\
+Example;\
+int[][][] n = new int[5][2][3];
 
 ## Useful snippets 
 ### Shuffle array
