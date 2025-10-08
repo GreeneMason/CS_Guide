@@ -7,7 +7,10 @@ By convention arguments are typically a string that would be input throught the 
 
 ## Standard output
 The output of characters, like you would see with a print statement.
-
+### Formatting
+printw() is for the width, which will limit the number of characters.\
+print.p() is simmilar but intended for floating-point numbers rather than integers.\
+printc() is used to convert the arguments into d for decimal, f for float,e for scientific notation, s for string, and b for boolean.
 ## Standard input(StdIn)
 The input of characters that are compatible with the standard output.
 
