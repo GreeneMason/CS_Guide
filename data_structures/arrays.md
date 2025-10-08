@@ -17,3 +17,8 @@ A data structure that uses indexing starting at 0. Each index(input) has an elem
 a[i] = i;
 }'
  
+## Syntax 
+Arrays can contain any of the built in data types or custom data types but the array is limited to only one data type. 
+data_type[] variable_name = new data_type[size];
+Exampple;
+int[] n = new int[5];
