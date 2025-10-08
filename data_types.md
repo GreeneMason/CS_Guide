@@ -1,10 +1,10 @@
-### Data Types
+# Data Types
 
   ## String
 
   Strings are made up of a sequence of characters.
 
-  # Syntax
+  ### Syntax
    - Use double quotes "" when writing strings
    - If you need to write a character like \ or " you have to escape it with a \ before it
    - You can concatenate two Strings with a + operator
@@ -15,7 +15,7 @@
 
   All natural numbers from –2147483648 to 2147483647 
 
-  # Syntax 
+  ### Syntax 
    - Operators include; +, -, *, /, %
    - int automatically converts to string when concatenated
    - String can convert to int using the Integer.parseInt("")
@@ -24,7 +24,7 @@
 
   Floating point numbers for precision
 
-  # Syntax
+  ### Syntax
    - Operators include; +, -, *, /
    - String can convert to double using the Double.parseDouble("")
 
@@ -32,6 +32,6 @@
 
   A true or false
 
-  # Syntax
+  ### Syntax
    - Operators include; &&, ||, !
    - 
