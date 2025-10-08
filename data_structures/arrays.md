@@ -18,7 +18,7 @@ a[i] = i;
 }'
  
 ## Syntax 
-Arrays can contain any of the built in data types or custom data types but the array is limited to only one data type. 
+Arrays can contain any of the built in data types or custom data types but the array is limited to only one data type. The array must be declared before referncing it to avoid problems with mem-alloc.
 data_type[] variable_name = new data_type[size];
 Exampple;
 int[] n = new int[5];
