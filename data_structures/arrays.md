@@ -27,6 +27,13 @@ int[] n = new int[5];
 ArrayIndexOutOfBoundsException
 This meaning that the program is refrencing an index of the array that does not exist. Sometimes this is just an error and maybe you need to adjust your loops/conditionals. But if you truly are out of an arrays space but you need it to adjust with size you will have to use/write a realloc function to change the size of the array.
 
+## Two dimensional arrays
+A two dimensional array follows alot of the same syntax rules except for declaring the size, with two dimensions the syntax has two size inputs, row x column.
+data_type[row][column] variable_name = new data_type[size_row][size_column];\
+Exampple;\
+int[][] n = new int[5][2];
+
+
 ## Useful snippets 
 ### Shuffle array
 int n = deck.length;  \
