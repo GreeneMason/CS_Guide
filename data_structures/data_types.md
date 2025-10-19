@@ -1,5 +1,7 @@
 # Data Types
-
+"A data type is a set of values and a set of operations defined on  those values."
+Sedgewick, Robert; Wayne, Kevin. Computer Science: An Interdisciplinary Approach (p. 331).
+ 
   ## String
 
   Strings are made up of a sequence of characters.
