@@ -1,2 +1,10 @@
 # Data types/Object oriented proramming
+Bespoke abstract data types developed for a specific task or library. Used like you would use a String or int. 
 
+### Object references
+Constructors create objects and return the reference for said object to the client. 
+
+### Checklist
+- The class with custom data types is in the same directory
+- The syntax is custom_data variable_name = arguement/declaration;
+- The method is a compatible static or an instance method with the client side code
