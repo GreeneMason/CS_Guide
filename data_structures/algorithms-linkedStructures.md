@@ -8,9 +8,9 @@ Knuth's method of measuring an algorithms running time.
 | description | function | factor for doubling hypothesis|
 |---|---|---|
 | constant | 1 | 1 |
-| Row 2 Col 1 | Row 2 Col 2 | 1 |
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | 1 |
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
+| logarithmic | log n | 1 |
+| linear | n | 2 |
+| linearithmic | n log(n) | 2 |
+| quadratic | n^2 | 4 |
+| cubic | n^3 | 8 |
+| exponential | 2^n | 2^n |
