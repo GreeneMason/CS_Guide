@@ -6,7 +6,7 @@ You can use hashing to provide a method of indexing the symbol table with an arr
 
 ### Example script
 
-'
+```
 
 public class *ST<Key, Value>
     *ST()                           //empty symbol table
@@ -17,6 +17,6 @@ public class *ST<Key, Value>
     int size()
     Iterable<Key> keys()            //all keys in the symbol table
     
-'
+```
 
 Sedgewick, Robert; Wayne, Kevin. Computer Science: An Interdisciplinary Approach (p. 625).
