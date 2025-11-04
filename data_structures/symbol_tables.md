@@ -5,7 +5,9 @@ With the key one can get() a value from the table.
 You can use hashing to provide a method of indexing the symbol table with an array of indexes.
 
 ### Example script
+
 '''
+
 public class *ST<Key, Value>
     *ST()                           //empty symbol table
     void put(Key key1, Value val1)  //new entry
@@ -14,5 +16,6 @@ public class *ST<Key, Value>
     boolean contains(Key key)       
     int size()
     Iterable<Key> keys()            //all keys in the symbol table
+    
 '''
 Sedgewick, Robert; Wayne, Kevin. Computer Science: An Interdisciplinary Approach (p. 625).
