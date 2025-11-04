@@ -20,3 +20,13 @@ public class *ST<Key, Value>
 ```
 
 Sedgewick, Robert; Wayne, Kevin. Computer Science: An Interdisciplinary Approach (p. 625).
+
+
+### Hash table
+A data structure that divides the keys into small groups that can be quickly searched.
+
+m is used as a parameter to determine how many times the keys are divided. To divide the groups we use a hash functions which maps a key value to each entry with a number between 0 and m-1. 
+
+After that you can perform a simple sequential search on the small groups.
+
+The more greater m is the more memory is required but it will take less time to search.
