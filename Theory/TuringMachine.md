@@ -20,3 +20,11 @@ Computability - "We say that a function f(x) is computable if there exists some 
 ### Neumann architecture
 where  computer programs and data are stored in the same main memory. This means  that the contents of memory can be treated as a machine instruction or data, depending on the context.
 (Sedgewick et. al (p. 788))
+
+### Universal Turing Machine
+A machine that can be used for any Turing Machine operations on any given input. 
+(Ex, A general purpose computer)
+
+### Church–Turing Thesis 
+A universal Turing machine (UTM) can perform any  computation (decide a language or compute a function) that can be described  by any physically realizable computing device. 
+(Sedgewick et. al (p. 791))
