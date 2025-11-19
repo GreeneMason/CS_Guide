@@ -12,3 +12,6 @@ Unicode: 16, 24, and 32 bits per character.
 ### Bits
 Early computers used 12 or 16 bits for a word size, then it doubled to 32 for a long time and now we run on 64 bits. All of which come back to the computer as 1s and 0s.
 
+### Von Neumann machines(1840s-1950s)
+Used for balistic calculations and for the computations needed to build an atom bomb.
+ENIAC and EDVAC.
